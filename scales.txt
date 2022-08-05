@@ -1,0 +1,55 @@
+Scales
+
+			Fatigue Severity Scale (1-7, strongly disgaree, strongly agree)
+
+1.My motivation is lower when I am fatigued.
+2.Exercise brings on my fatigue.
+3.I am easily fatigued.
+4.Fatigue interferes with my physical functioning.
+5.Fatigue causes frequent problems for me.
+6.My fatigue prevents sustained physical functioning.
+7.Fatigue interferes with carrying out certain duties and responsibilities.
+8.Fatigue is among my three most disabling symptoms.
+9.Fatigue interferes with my work, family, or social life.
+
+
+			International Fitness Scale(1-5 very poor, very good)
+1. Your general physical fitness is:
+2. Your cardiorespiratory fitness (capacity to do exercise, for instance running, for a long time) is:
+3. Your muscular strength is:
+4. Your speed / agility is:
+5. Your flexibility is:
+
+
+				Big Five Inventory (BFI-10) scale
+	[1 = Disagree strongly‚ 2= Disagree a little‚ 3 = Neither agree nor disagree‚ 4 = Agree a little‚ 5 = strongly Agree]
+ I see myself as someone who …
+1.      _____ is reserved
+2.      _____ is generally trusting
+3.      _____ tends to be lazy
+4.      _____ is relaxed‚ handles stress well
+5.      _____ has few artistic interests
+6.      _____ is outgoing‚ sociable
+7.      _____ tends to find fault with others
+8.      _____ does a thorough job
+9.      _____ gets nervous easily
+10.   _____ has an active imagination
+
+
+Munich
+Chronotype Questionnaire
+
+						Stanford Sleepiness Scale[ Anything with a score of 3 or higher falls under “sleepy”.]
+
+		Degree of Sleepiness								Scale Rating
+Feeling active, vital, alert, or wide awake							1
+Functioning at high levels, but not at peak; able to concentrate				2
+Awake, but relaxed; responsive but not fully alert						3
+Somewhat foggy, let down										4
+Foggy; losing interest in remaining awake; slowed down					5
+Sleepy, woozy, fighting sleep; prefer to lie down						6
+No longer fighting sleep, sleep onset soon; having dream-like thoughts			7
+
+					
+			Global Vigour and Affect Scale[GVAS used a 10-point
+rating instead of a VAS]
